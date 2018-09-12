@@ -1,5 +1,5 @@
 {
-  "name": "showtrackr",
+  "name": "showtrackr1",
   "version": "1.0.0",
   "scripts": {
     "test": "karma start public/test/karma.conf.js"
