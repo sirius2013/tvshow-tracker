@@ -1,7 +1,7 @@
 var path = require('path');
 var express = require('express');
 var bodyParser = require('body-parser');
-var logger = require('morgan');
+var logger = require('morgan');//update
 
 var crypto = require('crypto');
 var bcrypt = require('bcryptjs');
